@@ -83,36 +83,6 @@
 
 
 
-.emoji-picker .categories .item.people {
-    background-image: url(https://discordapp.com/assets/0509bf058793ef8ddd770a977e63614c.svg);
-}
-.emoji-picker .categories .item.nature {
-    background-image: url(https://discordapp.com/assets/aafe899a4d7ad7717acc64f5b8f36342.svg);
-}
-.emoji-picker .categories .item.food {
-    background-image: url(https://discordapp.com/assets/0eb5a2b715ff649e9757a232996817ab.svg);
-}
-.emoji-picker .categories .item.activity {
-    background-image: url(https://discordapp.com/assets/8674c1028a63d29fb605be53eeedf1bf.svg);
-}
-.emoji-picker .categories .item.travel {
-    background-image: url(https://discordapp.com/assets/13e86ddf4302f697243425b2f954d00b.svg);
-}
-.emoji-picker .categories .item.objects {
-    background-image: url(https://discordapp.com/assets/6d9a5b47dc3bf7adf54f19b1e3f6c5ad.svg);
-}
-.emoji-picker .categories .item.symbols {
-    background-image: url(https://discordapp.com/assets/83095e6af6c7cf33669e3ab169296867.svg);
-}
-.emoji-picker .categories .item.flags {
-    background-image: url(https://discordapp.com/assets/ccda5cf0a64abbd18fdb9f914b55292e.svg);
-}
-.emoji-picker .categories .item.recent {
-    background-image: url(https://discordapp.com/assets/0f1f2dff98b5e2099086e303d9be0dad.svg);
-}
-
-
-
 
 .context-menu .item-subMenu,
 .theme-dark.context-menu .item-subMenu {
