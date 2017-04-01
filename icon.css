@@ -1,0 +1,1064 @@
+.download-apps .platforms .platform .icon.apple.active {
+    background-image: url(https://discordapp.com/assets/57568e1cfc37c81cf56db9498b4f128a.svg);
+}
+.download-apps .platforms .platform .icon.windows.active {
+    background-image: url(https://discordapp.com/assets/d6221c5e88f5cb89f125868c077e9859.svg);
+}
+.download-apps .platforms .platform .icon.ios.active {
+    background-image: url(https://discordapp.com/assets/0c460e9b848f5c4cc964ae9c62c0f9b9.svg);
+}
+.download-apps .platforms .platform .icon.android.active {
+    background-image: url(https://discordapp.com/assets/d73fd4014c02b360d9529a720ecb7c44.svg);
+}
+
+
+
+
+.chat .welcome-message .item-container .icon.exclamation {
+    background-image: url(https://i.imgur.com/DYPXksE.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 29px 13px;
+}
+.chat .welcome-message .item-container .icon.share {
+    background-image: url(https://i.imgur.com/DYPXksE.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 29px 13px;
+}
+.chat .welcome-message .item-container .icon.apps {
+    background-image: url(https://i.imgur.com/DYPXksE.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 29px 13px;
+}
+.chat .welcome-message .item-container .icon.mobile {
+    background-image: url(https://i.imgur.com/DYPXksE.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 29px 13px;
+}
+.chat .welcome-message .item-container .icon.twitter {
+    background-image: url(https://i.imgur.com/DYPXksE.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 29px 13px;
+}
+
+
+
+
+.user-settings-modal-games .games-table .games-row .item-game .icon,
+.now-playing .item-game .icon {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/verified.svg) !important;
+    background-position: center;
+    background-size: 100%;
+    opacity: .7 !important;
+}
+
+
+
+
+.add-friend-popout-info .add-friend-popout-info-confirmation::before {
+    background: url(https://i.imgur.com/DYCx6qB.png) 50% no-repeat;
+    content: "";
+    width: 17px;
+    height: 16px;
+    background-size: 40px 39px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -8px;
+    margin-right: 4px;
+}
+
+
+
+
+.notice .notice-dismiss {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+.emoji-picker .categories .item.people {
+    background-image: url(https://discordapp.com/assets/0509bf058793ef8ddd770a977e63614c.svg);
+}
+.emoji-picker .categories .item.nature {
+    background-image: url(https://discordapp.com/assets/aafe899a4d7ad7717acc64f5b8f36342.svg);
+}
+.emoji-picker .categories .item.food {
+    background-image: url(https://discordapp.com/assets/0eb5a2b715ff649e9757a232996817ab.svg);
+}
+.emoji-picker .categories .item.activity {
+    background-image: url(https://discordapp.com/assets/8674c1028a63d29fb605be53eeedf1bf.svg);
+}
+.emoji-picker .categories .item.travel {
+    background-image: url(https://discordapp.com/assets/13e86ddf4302f697243425b2f954d00b.svg);
+}
+.emoji-picker .categories .item.objects {
+    background-image: url(https://discordapp.com/assets/6d9a5b47dc3bf7adf54f19b1e3f6c5ad.svg);
+}
+.emoji-picker .categories .item.symbols {
+    background-image: url(https://discordapp.com/assets/83095e6af6c7cf33669e3ab169296867.svg);
+}
+.emoji-picker .categories .item.flags {
+    background-image: url(https://discordapp.com/assets/ccda5cf0a64abbd18fdb9f914b55292e.svg);
+}
+.emoji-picker .categories .item.recent {
+    background-image: url(https://discordapp.com/assets/0f1f2dff98b5e2099086e303d9be0dad.svg);
+}
+
+
+
+
+.context-menu .item-subMenu,
+.theme-dark.context-menu .item-subMenu {
+    background: transparent url(https://discordapp.com/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
+}
+.context-menu .item-subMenu:hover,
+.theme-dark.context-menu .item-subMenu:hover {
+    background: rgba(0, 0, 0, 0.69) url(https://discordapp.com/assets/e4afe52f6863408a35654a6e5fd69ba9.svg) no-repeat 155px 50%;
+}
+
+
+
+
+.user-settings-modal button.preview-sound::before {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-position: center;
+    opacity: .3;
+}
+
+
+
+
+#voice-connection .btn-info::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/info.svg) !important;
+    background-position: center;
+    background-size: 20px;
+    opacity: .3;
+}
+#voice-connection .btn-disconnect::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call_end.svg);
+    background-position: center;
+    background-size: 20px;
+    opacity: .3;
+}
+
+
+
+
+.account .btn-mute::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background-position: center;
+    background-size: 20px;
+}
+.account .btn-mute:hover::after {
+    opacity: .6;
+}
+.account .btn-deafen::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-position: center;
+    background-size: 20px;
+}
+.account .btn-settings::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-position: center;
+    background-size: 20px;
+}
+.guild-channels .icon-settings {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-position: center;
+    background-size: 120%;
+}
+.icon-muted,
+.account .btn-mute.disabled::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-position: center;
+}
+.icon-deafened,
+.account .btn-deafen.disabled::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg) !important;
+    background-position: center;
+}
+
+
+
+
+.message-group .btn-option {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-size: 20px !important;
+    background-position: center !important;
+    opacity: 0;
+    visibility: visible;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+
+
+
+
+.guilds-wrapper .guilds .guild.audio .guild-inner::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg) !important;
+    background-position: center;
+    background-color: #000;
+    opacity: .7;
+}
+.guild-channels .icon-instant-invite {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg) !important;
+    background-position: center;
+    background-size: 110%;
+    margin-top: 1px;
+}
+
+
+
+
+.account .btn-deafen::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin-right: 5px;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_off.svg);
+    background-size: 65%;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0;
+}
+
+
+
+
+.account .btn-deafen.disabled::before {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/volume_up.svg);
+    background-position: center;
+}
+.account .btn-mute::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin-right: 5px;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg);
+    background-size: 65%;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0;
+}
+
+
+
+
+.account .btn-mute.disabled::before {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg);
+    background-position: center;
+}
+
+
+
+
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");'],
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");'],
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");'],
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");'] {
+    background: transparent !important;
+    position: relative;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::after,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::after,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin-right: 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 24px;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::after,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::after {
+    opacity: 1;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::before {
+    opacity: 0;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::before,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::after,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::before,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin-right: 5px;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications_off.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 24px;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::before,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDA2Mjg2NjIgMjJjMSAwIDEuNzE0Mjg1NzItLjQwMTk1MzEgMS45OTk5OTk5OC0xLjAwNDg4MjhoLTMuOTk5OTk5OThjLjI4NTcxNDMuNjAyOTI5NyAxIDEuMDA0ODgyOCAyIDEuMDA0ODgyOHptNi45ODA1Mjk3OC0zLjk2MzQzOTlWMTBjMC0yLjY0LTIuMzAyODY2OC00Ljk3NTAzNjYyLTUuMDEwNTU5MDgtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1MTctMS4wMjk4NDYyLTEuOTczMTE0LTEuMDI5ODQ2Mi0xLjYyOTA1ODg1IDAtMS45NjU4NTA4NC4zMDk4NDYyLTEuOTY1ODUwODQgMS4wMjk4NDYyQzguMzI5NjAwMTggNS4wMjQ5NjMzOCA1Ljk5NTQ4MzQgNy4zNiA1Ljk5NTQ4MzQgMTB2OC4wMzY1NjAxaC0uOTg5MTk2Nzh2MS45NTE0MTZIMjF2LTEuOTUxNDE2aC0xLjAxMzE4MzZ6TTE4IDE4SDh2LTcuN0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzNEMxNi41NTU1NTU2IDcgMTggOC40MyAxOCAxMC4zVjE4eiIvPgo8L3N2Zz4=");']::before {
+    opacity: 0;
+}
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::after,
+span[style='background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0xMy4wMDYyODY2MiAyMmMuOTk5OTk5OTggMCAxLjcxNDI4NTY4LS40MDE5NTMxIDEuOTk5OTk5OTgtMS4wMDQ4ODI4aC0zLjk5OTk5OTk4Yy4yODU3MTQzLjYwMjkyOTcgMSAxLjAwNDg4MjggMiAxLjAwNDg4Mjh6bTYuOTgwNTI5NzgtMy45NjM0Mzk5VjEwYzAtMi42NC0yLjMwMjg2NjgtNC45NzUwMzY2Mi01LjAxMDU1OTEtNC45NzUwMzY2MiAwLS43Mi0uMzQ0MDU1Mi0xLjAyOTg0NjItMS45NzMxMTQtMS4wMjk4NDYyLTEuNjI5MDU4ODMgMC0xLjk2NTg1MDgyLjMwOTg0NjItMS45NjU4NTA4MiAxLjAyOTg0NjJDOC4zMjk2MDAxOCA1LjAyNDk2MzM4IDUuOTk1NDgzNCA3LjM2IDUuOTk1NDgzNCAxMHY4LjAzNjU2MDFoLS45ODkxOTY3OHYxLjk1MTQxNkgyMXYtMS45NTE0MTZoLTEuMDEzMTgzNnpNMTMuMDgzODk2MTYgMThsLTIuMDc4OTMwODIgMi4wMjcyMDQ1SDQuOTQxNjIwMzhWMThINnYtM2wyLTIuMDgyOTQyOTJWMTAuM0M4IDguNDMgOS40NDQ0NDQ0NCA3IDExLjMzMzMzMzMzIDdoMy4zMzMzMzMzN2MuMjA1ODcyMSAwIDEuMzU3OTgyNS0xLjkwOTA0NTggMS4zNTc5ODI1LTEuOTA5MDQ1OHMxLjMxODM5MDguMjc5MTU2OTIgMi41NTU1MzQzIDEuNTk4ODMzNjdjMS4yMzcxNDM2IDEuMzE5Njc2NzYgMS4zMjUzODg5IDMuMjUxOTI3NzQgMS4zMjUzODg5IDMuMjUxOTI3NzRMMTggMTIuOTQ1NDcyNTZWMThoLTQuOTE2MTAzODR6Ii8+CiAgICA8cGF0aCBzdHJva2U9IiNGMDQ3NDciIHN0cm9rZS13aWR0aD0iMiIgZD0iTTIxIDVMNSAyMSIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgogIDwvZz4KPC9zdmc+");']::after {
+    opacity: 1;
+}
+
+
+
+
+.header-toolbar button:nth-child(3) span,
+.private .channel-group-dm + .header-toolbar button:nth-child(4) span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.header-toolbar span[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0xIDFoMjR2MjRIMSIvPgogICAgPHBhdGggZmlsbD0iI0ZGRiIgZD0iTTE1IDE1VjZoLTR2OWgtLjUwODk5NDgyQzEwLjIyNzg4MDQ4IDE1IDEwIDE1LjIyMzg1NzYgMTAgMTUuNWMwIC4yNjgwNjY0LjIxOTgzMDUuNS40OTEwMDUxOC41aDUuMDE3OTg5NjRDMTUuNzcyMTE5NTIgMTYgMTYgMTUuNzc2MTQyNCAxNiAxNS41YzAtLjI2ODA2NjQtLjIxOTgzMDUtLjUtLjQ5MTAwNTE4LS41SDE1em0yLTloMVY0SDh2MmgxdjhsLTIgMnYyaDUuMnY0aDEuNnYtNEgxOXYtMmwtMi0yVjZ6Ii8+CiAgPC9nPgo8L3N2Zz4="],
+.header-toolbar span[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0xIDFoMjR2MjRIMSIvPgogICAgPHBhdGggZmlsbD0iIzk5QUFCNSIgZD0iTTE1IDE1VjZoLTR2OWgtLjUwODk5NDgyQzEwLjIyNzg4MDQ4IDE1IDEwIDE1LjIyMzg1NzYgMTAgMTUuNWMwIC4yNjgwNjY0LjIxOTgzMDUuNS40OTEwMDUxOC41aDUuMDE3OTg5NjRDMTUuNzcyMTE5NTIgMTYgMTYgMTUuNzc2MTQyNCAxNiAxNS41YzAtLjI2ODA2NjQtLjIxOTgzMDUtLjUtLjQ5MTAwNTE4LS41SDE1em0yLTloMVY0SDh2MmgxdjhsLTIgMnYyaDUuMnY0aDEuNnYtNEgxOXYtMmwtMi0yVjZ6Ii8+CiAgPC9nPgo8L3N2Zz4="],
+.private .channel-group-dm + .header-toolbar button:nth-child(3) span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/pin.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.header-toolbar button:nth-last-of-type(2) span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mail.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.header-toolbar button:last-of-type span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/help.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+#friends .header-toolbar button:nth-child(1) span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group_add.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.private .header-toolbar .private-channel-call-btn span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.private .header-toolbar button:nth-child(3) span,
+.private .channel-group-dm + .header-toolbar button:nth-child(5) span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person_add.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.header-toolbar .auto-update span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/update.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.header-toolbar .auto-update.auto-update-checking span {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/refresh.svg) !important;
+}
+.win-buttons .win-minimize {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/remove.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center 7px;
+    background-size: 24px;
+}
+.win-buttons .win-maximize {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/fullscreen.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.win-buttons .win-close {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+.fav {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/favorite.svg);
+    background-color: transparent;
+    opacity: .3;
+    -webkit-transition: opacity .1s ease-in-out, -webkit-transform .1s ease-in-out;
+    transition: opacity .1s ease-in-out, -webkit-transform .1s ease-in-out;
+    transition: opacity .1s ease-in-out, transform .1s ease-in-out;
+    transition: opacity .1s ease-in-out, transform .1s ease-in-out, -webkit-transform .1s ease-in-out;
+}
+
+
+
+
+.guild-channels .channel-voice .channel-arrow {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/navigate_next.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.guild-channels header button::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add_circle.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 115%;
+    width: 15px;
+    margin-top: -2px;
+}
+
+
+
+
+.private-channels .channel .icon-friends {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75%;
+}
+
+
+
+
+.guilds-wrapper .guilds .friends-icon::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75%;
+    opacity: .7;
+    -webkit-transition: opacity .3s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+}
+
+
+
+
+.guild-channels .toggle-muted-text-channels a::before {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+.markdown-modal .markdown-modal-header .markdown-modal-close {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+#user-profile-modal .header .additional-actions-icon {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 36px;
+    -webkit-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+}
+
+
+
+
+.buttonClose {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200%;
+}
+
+
+
+
+.settings-connections-wrapper .authed-app .details .permission-checkmark {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/check.svg) left no-repeat;
+    background-size: 18px;
+    opacity: .7;
+}
+
+
+
+
+.btn-confirm .icon.icon-logout::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg);
+}
+.btn-confirm .icon.icon-delete::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/delete.svg);
+}
+
+
+
+
+.channel-mute-button {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) 50% no-repeat;
+    background-size: 18px;
+}
+.channel-mute-button.muted {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications_off.svg);
+}
+.color-picker .swatches .swatch.custom {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/colorize_black.svg);
+    background-size: 20px;
+}
+.color-picker .swatches .swatch.custom.light {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/colorize.svg);
+    background-size: 20px;
+}
+.guild-channels .icon-lock {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/lock.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    opacity: .3 !important;
+}
+
+
+
+
+.tab-bar-item.ebr-themes::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg);
+    position: absolute;
+    left: 15px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: -3px;
+    opacity: .3;
+}
+.tab-bar-item.ebr-plugins::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg);
+    position: absolute;
+    left: 15px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: -3px;
+    opacity: .3;
+}
+
+
+
+
+.private-channels .channel .close {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+}
+
+
+
+
+.private-channel-call .btn-icon-settings::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-position: center;
+}
+.private-channel-call .btn-icon-mute::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+    background-position: center;
+}
+.private-channel-call .btn-icon-mute.mute::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-position: center;
+}
+.private-channel-call .status-deafened::after,
+.private-channel-call .status-muted::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic_off.svg) !important;
+    background-position: center;
+    background-size: 18px;
+}
+
+
+
+
+.incoming-call .options .option .icon {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+.auth-inner .auth-logo {
+    background-image: url(https://discordapp.com/assets/1c8a54f25d101bdc607cec7228247a9a.svg);
+}
+.auth-inner .auth-name {
+    background: url(https://discordapp.com/assets/93608abbd20d90c13004925014a9fd01.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+}
+
+
+
+
+.clipboard-input-inner button.tweet::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/twitter.svg);
+}
+.clipboard-input-inner button.copy::after {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/copy.svg);
+}
+
+
+
+
+.notice .notice-dismissm.channel-notices .channel-notice .close {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+.search-popout .results-group .search-learn-more {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/help.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+    opacity: .7;
+}
+
+
+
+
+.search-popout .results-group .search-clear-history {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    opacity: .3;
+}
+
+
+
+
+.react-datepicker .react-datepicker__navigation.react-datepicker__navigation--next,
+.react-datepicker .react-datepicker__navigation.react-datepicker__navigation--previous {
+    border-color: transparent;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+    opacity: .7;
+    -webkit-transform: rotateZ(90deg);
+    transform: rotateZ(90deg);
+}
+
+
+
+
+
+.message-reactions-modal .message-reactions-reactors .reactor .remove {
+    width:0px;
+    height:0px;
+    padding: 12px;
+    margin-top: 8px;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    opacity: .3;
+}
+
+
+
+
+.member-roles .member-role.member-role-add button {
+    position: relative;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 170%;
+    opacity: .3;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    z-index: 1;
+    pointer-events: none;
+}
+
+
+
+
+.member-roles .member-role .member-role-add {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/add.svg) 50% no-repeat;
+    width: 8px;
+    height: 12px;
+    background-size: 150%;
+    opacity: .7;
+    -webkit-transition: opacity .1s ease-in-out;
+    transition: opacity .1s ease-in-out;
+}
+
+
+
+
+.member-roles .member-role .member-role-remove {
+    background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) 50% no-repeat;
+    width: 8px;
+    height: 12px;
+    background-size: 150%;
+    opacity: .3;
+    -wekbit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+
+
+
+
+.messages-popout-wrap .messages-popout .message-group .action-buttons .close-button {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.recent-mentions-popout .mention-filter {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/expand_more.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: 133px top !important;
+    background-size: 18px !important;
+}
+
+
+
+
+.embed .embed-video-actions .embed-video-play {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/play.svg);
+    background-position: center;
+    background-size: 30px;
+}
+.embed .embed-video-actions .embed-video-popout {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/popout.svg);
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+.system-message-icon[style*="m03Ljc3ODE3NDYtNC45NDk3NDc0NmwuNzA3MTA2NzcuNzA3MTA2NzggMS40MTQyMTM1Ny0xLjQxNDIxMzU2TDEwLjc5ODk5MDEyLjA3MTA2ODA2IDkuMzg0Nzc2NTYgMS40ODUyODE2M2wuNzA3MTA2NzguNzA3MTA2NzhMNC40MzUwMjkxIDcuODQ5MjQyN0gxLjYwNjYwMTk2TC4xOTIzODg0IDkuMjYzNDU2MjJsMy42NzY5NTUyNyAzLjY3Njk1NTI2LTIuODI4NDI3MTMgMi44Mjg0MjcxMyAxLjEzMTM3MDg2IDEuMTMxMzcwOSAyLjgyODQyNzEtMi44Mjg0MjcxMyAzLjY3Njk1NTI2IDMuNjc2OTU1MjYgMS40MTQyMTM1Ni0xLjQxNDIxMzU2VjEzLjUwNjA5NjlsNS42NTY4NTQyNS01LjY1Njg1NDI0eiIvPgogIDwvZz4KPC9zdmc+"] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/pin.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    opacity: .5;
+    height: 24px;
+    margin-top: -3px;
+}
+.system-message-icon[style*="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiM5OUFBQjUiIGQ9Ik0wIDE0LjI1VjE4aDMuNzVMMTQuODEgNi45NGwtMy43NS0zLjc1TDAgMTQuMjV6TTE3LjcxIDQuMDRjLjM5LS4zOS4zOS0xLjAyIDAtMS40MUwxNS4zNy4yOWMtLjM5LS4zOS0xLjAyLS4zOS0xLjQxIDBsLTEuODMgMS44MyAzLjc1IDMuNzUgMS44My0xLjgzeiIvPgogICAgPHBhdGggZD0iTTAgMGgxOHYxOEgwIi8+CiAgPC9nPgo8L3N2Zz4K"] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/edit.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+    opacity: .5;
+    height: 24px;
+    margin-top: -3px;
+}
+
+
+
+
+.new-messages-indicator .icon.icon-unread-arrow {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/arrow_down.svg);
+}
+
+
+
+
+.popout-menu .popout-menu-item.invite .popout-menu-icon {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg) !important;
+}
+.popout-menu .popout-menu-icon[style*="/assets/9a93097ab591379729c68f15a17b26af.svg"] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+}
+.popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMTh2MThIMHoiLz4KICAgIDxnIGZpbGw9IiM3MzdGOEQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuMjUgMS41KSI+CiAgICAgIDxwYXRoIGQ9Ik02Ljc2NzcyMTAzLjc1SDEuNDk2MzE2OTdDLjY2OTQ2NzEuNzUgMCAxLjQxOTkyMzkzIDAgMi4yNDYzMTY5N1YxMi43NTM2ODNDMCAxMy41ODA1MzI5LjY2OTkyMzkzIDE0LjI1IDEuNDk2MzE2OTcgMTQuMjVIMTIuMDAzNjgzYy44MjY4NDk5IDAgMS40OTYzMTctLjY2OTkyMzkgMS40OTYzMTctMS40OTYzMTdWNy40ODIwODM2MmMtLjQ1NDM1NTYuMjkxMjMwODgtLjk1OTk3NTguNTA5MTQ4OS0xLjUuNjM3MDU3NDRWMTIuNzVIMS41VjIuMjVoNC42MzA3Mzk5MmMuMTI3ODkxMzYtLjU0MDI4ODcuMzQ1ODI2Ny0xLjA0NTg0MjQuNjM2OTgxMS0xLjV6Ii8+CiAgICAgIDxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHg9IjguMjUiIHJ4PSIzIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4="] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+}
+.popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMTh2MThIMHoiLz4KICAgIDxwYXRoIGZpbGw9IiM3MzdGOEQiIGQ9Ik05IDloNS4yNWMtLjM5NzUgMy4wODI1LTIuNDYgNS44MzUtNS4yNSA2LjY5VjlIMy43NVY0LjcyNUw5IDIuMzkyNVY5em0wIDBIMy43NWMuMzk3NSAzLjA4MjUgMi40NiA1LjgzNSA1LjI1IDYuNjlWOWg1LjI1VjQuNzI1TDkgMi4zOTI1Vjl6TTkgLjc1bC02Ljc1IDN2NC41YzAgNC4xNjI1IDIuODggOC4wNDc1IDYuNzUgOSAzLjg3LS45NTI1IDYuNzUtNC44Mzc1IDYuNzUtOXYtNC41TDkgLjc1eiIvPgogIDwvZz4KPC9zdmc+"] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg) !important;
+}
+.popout-menu .popout-menu-icon[style*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPHBhdGggZmlsbD0iIzczN0Y4RCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMyAxNHYtMi41bDcuODgtNy44NWMuMTktLjIuNTEtLjIuNzEgMGwxLjc2IDEuNzZjLjIuMi4yLjUxIDAgLjcxTDUuNDcgMTRIM3ptMTIgMEg3LjVsMi0ySDE1djJ6Ii8+Cjwvc3ZnPg=="] {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/edit.svg) !important;
+}
+.popout-menu .popout-menu-item.leave .popout-menu-icon {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+    -webkit-transition: all .1s ease-in-out, transform .3s ease-in-out;
+    transition: all .1s ease-in-out, transform .3s ease-in-out;
+}
+
+
+
+
+.channel-notices .channel-notice .close {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+
+
+
+
+#instant-invite-modal .form-actions .advanced {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/settings.svg) !important;
+    background-size: 100%;
+    opacity: .3;
+}
+
+
+
+
+.icon.icon-file,
+.upload-modal .inner .file .icon:not(.image) {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .5;
+}
+
+
+
+
+.icon.icon-file.code,
+.upload-modal .inner .file .icon.code,
+.icon.icon-file.webcode,
+.upload-modal .inner .file .icon.webcode {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_code.svg) !important;
+}
+.icon.icon-file.document,
+.upload-modal .inner .file .icon.document {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_document.svg) !important;
+}
+.icon.icon-file.archive,
+.upload-modal .inner .file .icon.archive {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_archive.svg) !important;
+}
+
+
+
+
+.channel-textarea-upload::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/file_upload.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .3;
+    pointer-events: none;
+}
+
+
+
+
+img:not(.emote):not(.emoji)::before {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/broken_image.svg);
+    position: absolute;
+    top: -1px;
+    left: 1px;
+    z-index: 1;
+    opacity: .7;
+}
+
+
+
+
+
+.emote::before,
+.emoji::before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    left: -1px;
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/broken_image.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .7;
+    z-index: 1;
+}
+
+
+
+
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-add {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person_add.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-ignore,
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/close.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-call {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/call.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px;
+}
+
+
+
+
+
+#user-profile-modal .guilds .section .connected-accounts .connected-account .connected-account-name-inner .connected-account-verified-icon {
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/verified.svg);
+    background-position: center;
+    background-size: 100%;
+    opacity: .7;
+}
+
+
+
+
+
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(2)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(3)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/2b953734/icons/speed.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(4)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(5)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(6)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/chat.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(7)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(8)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(9)::after,
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/camera.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10)::after,
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(13)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(12)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/language.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(11)::after,
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(14)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(13)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg);
+}
+.user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(12)::after,
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(15)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(14)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg);
+}
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(9)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(9)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/keyboard.svg);
+}
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(11)::after,
+.platform-osx .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(11)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/games.svg);
+}
+.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(12)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg);
+}
+#bd-settings-new::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/42bf9ad71835f8e75ebf7fbdd4fe7018ffbaa003/icons/betterdiscord.svg);
+}
+
+
+
+
+.change-log-button-container::after {
+    content: "";
+    background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 15px;
+    width: 24px;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: .3;
+    pointer-events: none;
+}
+
+
+
+
+
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(2)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/info.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(3)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/share.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(4)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(5)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/group.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(6)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/assignment.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(7)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/block.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(8)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(9)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(10)::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/webhook.svg);
+}
+.guild-settings-modal .tab-bar.SIDE .tab-bar-item:last-of-type::after {
+    content: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg);
+}
+
+
+
+
